@@ -1,2 +1,6 @@
-# notepad-timestamp
-Python scripts to add a time stamp as a text string.
+## Installation Instructions
+
+### Prerequisite Items
+
+Latest version of [Notepad++](https://notepad-plus-plus.org/downloads/)
+Latest version of [Python] (https://www.python.org/downloads/)
