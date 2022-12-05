@@ -38,7 +38,11 @@ The installation will assume that you have the latest version of Notepad++ and P
     - *highlight time-start*, Select: Modify and set a key combo to run the macro.
     - *highlight time-stop*, Select: Modify and set a key combo to run the macro.
 7. Restart Notepad++ and test using the key combo you set.
----
+
+<div align="center"> 
+	<h2>Example Output</h2>
+</div>
+
 ### **time-start.py**
 ```python
 import time
