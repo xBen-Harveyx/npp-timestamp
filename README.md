@@ -1,6 +1,6 @@
-https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+![image]({https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black})
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+![image]({https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white})
 
 ## Background Information
 >Hello, and thank you for taking a look at my repository. This was something something I have been meaning to put together for sometime. I am currently working in an IT consulting position, and for several months looked for a solution for tracking time on tasks. I liked to use Notepad++ due to it being lightweight and very customizable, and figured there had to be a simple macro solution to imprint a timestamp of the current date and time in Notepad++. After searching for quite some time, I came across an answer provided by [Devin Bost](https://stackoverflow.com/users/1887281/devinbost)on StackOverflow addressing a similar question. **All credit should go to Devin**. I have made a few changes to the text output string, and have updated the installation as Notepad++ has updated through the years. Even though I have set this up five or six times over the years, I always have to pull information from Devin's response and a few other location, and spend longer than I would like to admit troubleshooting. The goal of this repository is to centralize the macro scripts and the installation procedure, along with providing an approachable guide to setting this up in Notepad++.
