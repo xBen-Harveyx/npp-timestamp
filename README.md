@@ -39,6 +39,10 @@ The installation will assume that you have the latest version of Notepad++ and P
     - *highlight time-stop*, Select: Modify and set a key combo to run the macro.
 7. Restart Notepad++ and test using the key combo you set.
 
+<div align="center">
+    <img src="assets/example.gif">
+</div>
+
 <div align="center"> 
 	<h2>Example Output</h2>
 </div>
