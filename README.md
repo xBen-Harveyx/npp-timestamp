@@ -22,8 +22,8 @@ The installation will assume that you have the latest version of Notepad++ and P
 
 3. Move both **time-start.py** and **time-stop.py** to the following folders.
     - C:\Program Files\Notepad++\plugins\PythonScript\scripts
-    - C:\Users\%username%\AppData\Roaming\Notepad++\plugins\config\Python\scripts
-    - C:\Users\%username%\AppData\Roaming\Notepad++\plugins\config
+    - C:\Users\\%username%\AppData\Roaming\Notepad++\plugins\config\Python\scripts
+    - C:\Users\\%username%\AppData\Roaming\Notepad++\plugins\config
 
 4. **Close and restart Notepad++**.
 
